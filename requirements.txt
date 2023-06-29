@@ -1,0 +1,11 @@
+django-cors-headers
+django-dotenv
+django-filter
+django-storages
+djangorestframework
+djangorestframework-jwt
+geocoder
+gunicorn
+whitenoise
+psycopg2
+dj-database-url
